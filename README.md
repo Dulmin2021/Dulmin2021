@@ -59,9 +59,3 @@
 
 
 </p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Dulmin2021/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
