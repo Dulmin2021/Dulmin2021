@@ -11,7 +11,7 @@
  📫 How to reach me: dulmin.code@gmail.com
 <br>
 <p align="center">
- ⚡ Fun fact **weak up to reality** </p>
+ ⚡ Fun fact: weak up to reality </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
