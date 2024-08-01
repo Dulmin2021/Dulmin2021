@@ -1,4 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Dulmin2021/Dulmin2021/blob/main/ayubowan.png" height="175px"/>
+<div align="center">
+  <img src="https://github.com/Dulmin2021/Dulmin2021/blob/main/coding.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
+</div>
+
+
+
+
+
+<!--a href="#"><img width="100%" height="auto" src="https://github.com/Dulmin2021/Dulmin2021/blob/main/ayubowan.png" height="175px"/>
 
 <!--a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
